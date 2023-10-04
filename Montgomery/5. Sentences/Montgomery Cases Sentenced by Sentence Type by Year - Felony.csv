@@ -1,6 +1,5 @@
-Sentence Date,Incarceration,Supervised Probation,Unsupervised Probation,Other Sentence
-2018,665,567,36,61
-2019,672,595,42,74
-2020,357,305,38,160
-2021,153,139,4,385
-2022,96,68,4,272
+Sentence Date,Incarceration,Supervised Probation,Unsupervised Probation,Missing/Other
+2018,248,222,19,7
+2019,629,546,37,18
+2020,454,394,33,14
+2021,431,378,29,19
