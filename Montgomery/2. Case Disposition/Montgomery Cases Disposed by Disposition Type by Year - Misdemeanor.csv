@@ -1,6 +1,6 @@
-Disposition Date,Conviction,Dismissal,Acquittal,Open Plea,Other Disposition,Missing
-2018,494,91,15,15,43,12
-2019,445,102,19,14,43,41
-2020,293,66,10,20,16,17
-2021,355,68,6,49,15,16
-2022,293,54,4,196,31,33
+Disposition Date,Conviction,Dismissal,Acquittal,Other Disposition,Missing
+2018,509,91,15,43,12
+2019,459,102,19,43,41
+2020,313,66,10,16,17
+2021,404,68,6,15,16
+2022,489,54,4,31,33
