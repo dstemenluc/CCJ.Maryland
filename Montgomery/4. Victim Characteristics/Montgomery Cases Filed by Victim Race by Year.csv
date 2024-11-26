@@ -1,6 +1,7 @@
-Date Filed,Only White victim(s),Only Black victim(s),Only Hispanic victim(s),Only Asian victim(s),Only other race victim(s),Multiple victims of different races
-2018,340,201,10,27,79,105
-2019,403,238,8,30,43,87
-2020,222,185,13,22,33,39
-2021,105,123,3,10,29,18
-2022,83,94,2,7,14,8
+Date Filed,Only White victim(s),Only Black victim(s),Only Hispanic victim(s),Only Asian victim(s),Other/Multiple race victims
+2018,340,201,10,27,184
+2019,403,238,8,30,130
+2020,222,185,13,22,72
+2021,105,123,3,10,47
+2022,83,94,2,7,22
+2023,224,177,43,25,57
