@@ -1,11 +1,6 @@
-﻿ChargeText,All Cases,MostSeriousFiledCharge
-ASSAULT-SEC DEGREE,All Cases,527
-CDS: POSSESS-NOT CANNABIS,All Cases,416
-CDS:POSS PARAPHERNALIA,All Cases,248
-"THEFT: $100 TO UNDER $1,500",All Cases,222
-THEFT LESS THAN $100.00,All Cases,158
-TRESPASS: PRIVATE PROPERTY,All Cases,154
-VIOLATE PROT ORDER,All Cases,128
-ASSAULT-FIRST DEGREE,All Cases,102
-"THEFT: $1,500 TO UNDER $25,000",All Cases,60
-"MAL DEST PROP/VALU < $1,000",All Cases,57
+﻿ChargeText,MostSeriousFiledCharge
+Assault 2nd Deg.,527
+Possession of Cont. Sub.,416
+"Theft <$1,000",380
+Posssession of Drug Para.,248
+Trespass,154
