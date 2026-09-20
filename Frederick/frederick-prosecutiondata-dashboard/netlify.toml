@@ -1,4 +1,0 @@
-
-[[redirects]]
-  from = "/frederick/*"
-  to = "/:splat"
